@@ -22,7 +22,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:307228
-FileModTime:1453204309
+FileModTime:1479841772
 NameArray:0,Mac,4,Adobe Arabic Bold
 NameArray:0,Win,1,Adobe Arabic
 %EndFont
@@ -48,7 +48,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:329784
-FileModTime:1453204309
+FileModTime:1479841772
 NameArray:0,Mac,4,Adobe Arabic Bold Italic
 NameArray:0,Win,1,Adobe Arabic
 %EndFont
@@ -74,7 +74,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:339276
-FileModTime:1453204309
+FileModTime:1479841773
 NameArray:0,Mac,4,Adobe Arabic Italic
 NameArray:0,Win,1,Adobe Arabic
 %EndFont
@@ -100,7 +100,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:299680
-FileModTime:1453204309
+FileModTime:1479841773
 NameArray:0,Mac,18,Adobe Arabic
 NameArray:0,Mac,4,Adobe Arabic Regular
 NameArray:0,Win,1,Adobe Arabic
@@ -126,7 +126,7 @@ OutlineFileName:\AdobeFanHeitiStd-Bold.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:5500724
-FileModTime:1453204309
+FileModTime:1479841773
 NameArray:0,Mac,4,Adobe Fan Heiti Std B
 NameArray:2,Mac,4,Adobe 繁黑體 Std B
 NameArray:2,Win,1,Adobe 繁黑體 Std B
@@ -157,7 +157,7 @@ OutlineFileName:\AdobeGothicStd-Bold.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:2887924
-FileModTime:1453204309
+FileModTime:1479841774
 NameArray:0,Mac,4,Adobe Gothic Std B
 NameArray:3,Mac,4,Adobe 고딕 Std B
 NameArray:0,Win,1,Adobe Gothic Std B
@@ -187,7 +187,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:72116
-FileModTime:1453204309
+FileModTime:1479841774
 NameArray:0,Mac,4,Adobe Hebrew Bold
 NameArray:0,Win,1,Adobe Hebrew
 %EndFont
@@ -213,7 +213,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:75304
-FileModTime:1453204309
+FileModTime:1479841774
 NameArray:0,Mac,4,Adobe Hebrew Bold Italic
 NameArray:0,Win,1,Adobe Hebrew
 %EndFont
@@ -239,7 +239,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:75220
-FileModTime:1453204309
+FileModTime:1479841774
 NameArray:0,Mac,4,Adobe Hebrew Italic
 NameArray:0,Win,1,Adobe Hebrew
 %EndFont
@@ -265,7 +265,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:73492
-FileModTime:1453204309
+FileModTime:1479841774
 NameArray:0,Mac,18,Adobe Hebrew
 NameArray:0,Mac,4,Adobe Hebrew Regular
 NameArray:0,Win,1,Adobe Hebrew
@@ -291,7 +291,7 @@ OutlineFileName:\AdobeHeitiStd-Regular.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:12268676
-FileModTime:1453204309
+FileModTime:1479841776
 NameArray:0,Mac,4,Adobe Heiti Std R
 NameArray:25,Mac,4,Adobe 黑体 Std R
 NameArray:0,Win,1,Adobe Heiti Std R
@@ -320,7 +320,7 @@ OutlineFileName:\AdobeMingStd-Light.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:10174452
-FileModTime:1453204309
+FileModTime:1479841778
 NameArray:0,Mac,4,Adobe Ming Std L
 NameArray:2,Mac,4,Adobe 明體 Std L
 NameArray:2,Win,1,Adobe 明體 Std L
@@ -351,7 +351,7 @@ OutlineFileName:\AdobeMyungjoStd-Medium.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:4103860
-FileModTime:1453204309
+FileModTime:1479841778
 NameArray:0,Mac,4,Adobe Myungjo Std M
 NameArray:3,Mac,4,Adobe 명조 Std M
 NameArray:0,Win,1,Adobe Myungjo Std M
@@ -378,7 +378,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:92588
-FileModTime:1453204309
+FileModTime:1479841778
 DesignSize:240
 NameArray:0,Mac,4,Adobe Pi Std
 NameArray:0,Win,1,Adobe Pi Std
@@ -404,7 +404,7 @@ OutlineFileName:\AdobeSongStd-Light.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:15589912
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,4,Adobe Song Std L
 NameArray:25,Mac,4,Adobe 宋体 Std L
 NameArray:0,Win,1,Adobe Song Std L
@@ -434,7 +434,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:70092
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,4,Adobe Thai Bold
 NameArray:0,Win,1,Adobe Thai
 %EndFont
@@ -460,7 +460,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:73224
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,4,Adobe Thai Bold Italic
 NameArray:0,Win,1,Adobe Thai
 %EndFont
@@ -486,7 +486,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:73512
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,4,Adobe Thai Italic
 NameArray:0,Win,1,Adobe Thai
 %EndFont
@@ -512,7 +512,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:69840
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,18,Adobe Thai
 NameArray:0,Mac,4,Adobe Thai Regular
 NameArray:0,Win,1,Adobe Thai
@@ -536,7 +536,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:37524
-FileModTime:1453204310
+FileModTime:1479841780
 DesignSize:120
 NameArray:0,Mac,4,Courier Std Bold
 NameArray:0,Win,1,Courier Std
@@ -560,7 +560,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:38984
-FileModTime:1453204310
+FileModTime:1479841780
 DesignSize:120
 NameArray:0,Mac,4,Courier Std Bold Oblique
 NameArray:0,Win,1,Courier Std
@@ -584,7 +584,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:39332
-FileModTime:1453204310
+FileModTime:1479841780
 DesignSize:120
 NameArray:0,Mac,18,Courier Std Oblique
 NameArray:0,Mac,4,Courier Std Medium Oblique
@@ -609,7 +609,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:37860
-FileModTime:1453204310
+FileModTime:1479841780
 DesignSize:120
 NameArray:0,Mac,18,Courier Std
 NameArray:0,Mac,4,Courier Std Medium
@@ -636,7 +636,7 @@ OutlineFileName:\KozGoPr6N-Medium.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:5484544
-FileModTime:1453204310
+FileModTime:1479841780
 NameArray:0,Mac,4,Kozuka Gothic Pr6N M
 NameArray:1,Mac,4,小塚ゴシック Pr6N M
 NameArray:0,Win,1,Kozuka Gothic Pr6N M
@@ -665,7 +665,7 @@ OutlineFileName:\KozMinPr6N-Regular.otf
 DataFormat:sfntData
 isCFF:yes
 FileLength:6512848
-FileModTime:1453204310
+FileModTime:1479841781
 NameArray:0,Mac,4,Kozuka Mincho Pr6N R
 NameArray:1,Mac,4,小塚明朝 Pr6N R
 NameArray:0,Win,1,Kozuka Mincho Pr6N R
@@ -692,7 +692,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:218640
-FileModTime:1453204310
+FileModTime:1479841781
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -716,7 +716,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:97072
-FileModTime:1453204310
+FileModTime:1479841782
 DesignSize:110
 NameArray:0,Mac,4,Myriad Pro
 NameArray:0,Win,1,Myriad Pro
@@ -727,7 +727,7 @@ Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\sy______.afm
 FileLength:9932
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -748,7 +748,7 @@ DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 FileLength:34705
-FileModTime:1453204310
+FileModTime:1479841782
 DesignSize:-1
 %EndFont
 
@@ -772,7 +772,7 @@ MMAxisName:Width
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:75573
-FileModTime:1453204310
+FileModTime:1479841782
 DesignSize:-1
 %EndFont
 
@@ -796,7 +796,7 @@ MMAxisName:Width
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:96418
-FileModTime:1453204310
+FileModTime:1479841782
 DesignSize:-1
 %EndFont
 
@@ -805,7 +805,7 @@ Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\PFM\sy______.inf
 FileLength:487
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -815,7 +815,7 @@ FontName:Symbol
 NumMMAxes:0
 OutlineFileName:\PFM\sy______.pfm
 FileLength:672
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -825,7 +825,7 @@ FontName:AdobeSansMM
 NumMMAxes:2
 OutlineFileName:\PFM\zx______.mmm
 FileLength:7248
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -835,7 +835,7 @@ FontName:AdobeSansMM
 NumMMAxes:0
 OutlineFileName:\PFM\zx______.pfm
 FileLength:683
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -845,7 +845,7 @@ FontName:AdobeSerifMM
 NumMMAxes:2
 OutlineFileName:\PFM\zy______.mmm
 FileLength:7248
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 
 %BeginFont
@@ -855,6 +855,6 @@ FontName:AdobeSerifMM
 NumMMAxes:0
 OutlineFileName:\PFM\zy______.pfm
 FileLength:684
-FileModTime:1453204310
+FileModTime:1479841782
 %EndFont
 

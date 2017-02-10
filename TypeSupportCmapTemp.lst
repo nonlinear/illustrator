@@ -9,7 +9,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\78-EUC-H
 FileLength:14865
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -21,7 +21,7 @@ Ordering:Japan1
 UseCMap:78-EUC-H
 OutlineFileName:\78-EUC-V
 FileLength:3291
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -32,7 +32,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\78-H
 FileLength:14742
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -43,7 +43,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\78-RKSJ-H
 FileLength:14896
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -55,7 +55,7 @@ Ordering:Japan1
 UseCMap:78-RKSJ-H
 OutlineFileName:\78-RKSJ-V
 FileLength:3297
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -67,7 +67,7 @@ Ordering:Japan1
 UseCMap:78-H
 OutlineFileName:\78-V
 FileLength:3267
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -78,7 +78,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\78ms-RKSJ-H
 FileLength:16569
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -90,7 +90,7 @@ Ordering:Japan1
 UseCMap:78ms-RKSJ-H
 OutlineFileName:\78ms-RKSJ-V
 FileLength:4278
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -101,7 +101,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\83pv-RKSJ-H
 FileLength:7149
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -112,7 +112,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\90ms-RKSJ-H
 FileLength:6139
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -124,7 +124,7 @@ Ordering:Japan1
 UseCMap:90ms-RKSJ-H
 OutlineFileName:\90ms-RKSJ-V
 FileLength:4298
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -135,7 +135,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\90msp-RKSJ-H
 FileLength:6070
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -147,7 +147,7 @@ Ordering:Japan1
 UseCMap:90msp-RKSJ-H
 OutlineFileName:\90msp-RKSJ-V
 FileLength:4281
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -158,7 +158,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\90pv-RKSJ-H
 FileLength:7884
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -170,7 +170,7 @@ Ordering:Japan1
 UseCMap:90pv-RKSJ-H
 OutlineFileName:\90pv-RKSJ-V
 FileLength:3784
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -181,7 +181,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Add-H
 FileLength:14923
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -192,7 +192,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Add-RKSJ-H
 FileLength:15107
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -204,7 +204,7 @@ Ordering:Japan1
 UseCMap:Add-RKSJ-H
 OutlineFileName:\Add-RKSJ-V
 FileLength:3892
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -216,7 +216,7 @@ Ordering:Japan1
 UseCMap:Add-H
 OutlineFileName:\Add-V
 FileLength:3862
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -227,7 +227,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-0
 FileLength:3898
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -238,7 +238,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-1
 FileLength:4071
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -249,7 +249,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-2
 FileLength:4091
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -260,7 +260,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-3
 FileLength:4191
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -271,7 +271,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-4
 FileLength:4211
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -282,7 +282,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-5
 FileLength:4211
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -293,7 +293,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\Adobe-CNS1-6
 FileLength:4211
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -304,7 +304,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-0
 FileLength:3361
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -315,7 +315,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-1
 FileLength:3515
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -326,7 +326,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-2
 FileLength:4469
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -337,7 +337,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-3
 FileLength:4468
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -348,7 +348,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-4
 FileLength:5020
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -359,7 +359,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\Adobe-GB1-5
 FileLength:5120
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -370,7 +370,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-0
 FileLength:3410
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -381,7 +381,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-1
 FileLength:3411
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -392,7 +392,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-2
 FileLength:3449
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -403,7 +403,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-3
 FileLength:3459
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -414,7 +414,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-4
 FileLength:3937
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -425,7 +425,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-5
 FileLength:4317
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -436,7 +436,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Adobe-Japan1-6
 FileLength:4537
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -447,7 +447,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\Adobe-Japan2-0
 FileLength:3237
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -458,7 +458,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\Adobe-Korea1-0
 FileLength:3502
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -469,7 +469,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\Adobe-Korea1-1
 FileLength:4158
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -480,7 +480,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\Adobe-Korea1-2
 FileLength:4157
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -491,7 +491,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\B5-H
 FileLength:7562
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -503,7 +503,7 @@ Ordering:CNS1
 UseCMap:B5-H
 OutlineFileName:\B5-V
 FileLength:2993
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -514,7 +514,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\B5pc-H
 FileLength:7616
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -526,7 +526,7 @@ Ordering:CNS1
 UseCMap:B5pc-H
 OutlineFileName:\B5pc-V
 FileLength:3005
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -537,7 +537,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\CNS-EUC-H
 FileLength:12315
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -548,7 +548,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\CNS-EUC-V
 FileLength:13347
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -559,7 +559,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\CNS1-H
 FileLength:5680
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -571,7 +571,7 @@ Ordering:CNS1
 UseCMap:CNS1-H
 OutlineFileName:\CNS1-V
 FileLength:3001
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -582,7 +582,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\CNS2-H
 FileLength:4344
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -594,7 +594,7 @@ Ordering:CNS1
 UseCMap:CNS2-H
 OutlineFileName:\CNS2-V
 FileLength:2752
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -605,7 +605,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\ETen-B5-H
 FileLength:7772
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -617,7 +617,7 @@ Ordering:CNS1
 UseCMap:ETen-B5-H
 OutlineFileName:\ETen-B5-V
 FileLength:3043
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -629,7 +629,7 @@ Ordering:CNS1
 UseCMap:ETen-B5-H
 OutlineFileName:\ETenms-B5-H
 FileLength:2798
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -641,7 +641,7 @@ Ordering:CNS1
 UseCMap:ETenms-B5-H
 OutlineFileName:\ETenms-B5-V
 FileLength:3110
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -652,7 +652,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\ETHK-B5-H
 FileLength:23271
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -664,7 +664,7 @@ Ordering:CNS1
 UseCMap:ETHK-B5-H
 OutlineFileName:\ETHK-B5-V
 FileLength:3024
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -675,7 +675,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\EUC-H
 FileLength:5144
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -687,7 +687,7 @@ Ordering:Japan1
 UseCMap:EUC-H
 OutlineFileName:\EUC-V
 FileLength:3292
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -698,7 +698,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Ext-H
 FileLength:15493
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -709,7 +709,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Ext-RKSJ-H
 FileLength:15676
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -721,7 +721,7 @@ Ordering:Japan1
 UseCMap:Ext-RKSJ-H
 OutlineFileName:\Ext-RKSJ-V
 FileLength:3550
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -733,7 +733,7 @@ Ordering:Japan1
 UseCMap:Ext-H
 OutlineFileName:\Ext-V
 FileLength:3520
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -744,7 +744,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GB-EUC-H
 FileLength:4496
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -756,7 +756,7 @@ Ordering:GB1
 UseCMap:GB-EUC-H
 OutlineFileName:\GB-EUC-V
 FileLength:3169
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -767,7 +767,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GB-H
 FileLength:4391
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -779,7 +779,7 @@ Ordering:GB1
 UseCMap:GB-H
 OutlineFileName:\GB-V
 FileLength:3145
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -790,7 +790,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBK-EUC-H
 FileLength:83171
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -802,7 +802,7 @@ Ordering:GB1
 UseCMap:GBK-EUC-H
 OutlineFileName:\GBK-EUC-V
 FileLength:3158
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -813,7 +813,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBK2K-H
 FileLength:90995
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -825,7 +825,7 @@ Ordering:GB1
 UseCMap:GBK2K-H
 OutlineFileName:\GBK2K-V
 FileLength:3551
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -836,7 +836,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBKp-EUC-H
 FileLength:83152
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -848,7 +848,7 @@ Ordering:GB1
 UseCMap:GBKp-EUC-H
 OutlineFileName:\GBKp-EUC-V
 FileLength:3164
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -859,7 +859,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBpc-EUC-H
 FileLength:4524
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -871,7 +871,7 @@ Ordering:GB1
 UseCMap:GBpc-EUC-H
 OutlineFileName:\GBpc-EUC-V
 FileLength:3181
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -882,7 +882,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBT-EUC-H
 FileLength:46842
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -894,7 +894,7 @@ Ordering:GB1
 UseCMap:GBT-EUC-H
 OutlineFileName:\GBT-EUC-V
 FileLength:3177
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -905,7 +905,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBT-H
 FileLength:46737
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -917,7 +917,7 @@ Ordering:GB1
 UseCMap:GBT-H
 OutlineFileName:\GBT-V
 FileLength:3153
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -928,7 +928,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\GBTpc-EUC-H
 FileLength:46872
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -940,7 +940,7 @@ Ordering:GB1
 UseCMap:GBTpc-EUC-H
 OutlineFileName:\GBTpc-EUC-V
 FileLength:3189
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -951,7 +951,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\H
 FileLength:5010
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -962,7 +962,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Hankaku
 FileLength:2890
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -973,7 +973,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Hiragana
 FileLength:2864
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -984,7 +984,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKdla-B5-H
 FileLength:23337
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -996,7 +996,7 @@ Ordering:CNS1
 UseCMap:HKdla-B5-H
 OutlineFileName:\HKdla-B5-V
 FileLength:3010
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1007,7 +1007,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKdlb-B5-H
 FileLength:20997
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1019,7 +1019,7 @@ Ordering:CNS1
 UseCMap:HKdlb-B5-H
 OutlineFileName:\HKdlb-B5-V
 FileLength:3010
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1030,7 +1030,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKgccs-B5-H
 FileLength:13793
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1042,7 +1042,7 @@ Ordering:CNS1
 UseCMap:HKgccs-B5-H
 OutlineFileName:\HKgccs-B5-V
 FileLength:3016
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1053,7 +1053,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKm314-B5-H
 FileLength:13606
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1065,7 +1065,7 @@ Ordering:CNS1
 UseCMap:HKm314-B5-H
 OutlineFileName:\HKm314-B5-V
 FileLength:3016
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1076,7 +1076,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKm471-B5-H
 FileLength:16576
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1088,7 +1088,7 @@ Ordering:CNS1
 UseCMap:HKm471-B5-H
 OutlineFileName:\HKm471-B5-V
 FileLength:3016
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1099,7 +1099,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\HKscs-B5-H
 FileLength:23322
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1111,7 +1111,7 @@ Ordering:CNS1
 UseCMap:HKscs-B5-H
 OutlineFileName:\HKscs-B5-V
 FileLength:3030
-FileModTime:1453204310
+FileModTime:1479841784
 %EndFont
 
 %BeginFont
@@ -1122,7 +1122,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\Hojo-EUC-H
 FileLength:4695
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1134,7 +1134,7 @@ Ordering:Japan2
 UseCMap:Hojo-EUC-H
 OutlineFileName:\Hojo-EUC-V
 FileLength:2778
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1145,7 +1145,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\Hojo-H
 FileLength:4345
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1157,7 +1157,7 @@ Ordering:Japan2
 UseCMap:Hojo-H
 OutlineFileName:\Hojo-V
 FileLength:2754
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1168,7 +1168,7 @@ Registry:Adobe
 Ordering:Identity
 OutlineFileName:\Identity-H
 FileLength:7889
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1180,7 +1180,7 @@ Ordering:Identity
 UseCMap:Identity-H
 OutlineFileName:\Identity-V
 FileLength:2688
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1191,7 +1191,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Katakana
 FileLength:2780
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1202,7 +1202,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSC-EUC-H
 FileLength:11797
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1214,7 +1214,7 @@ Ordering:Korea1
 UseCMap:KSC-EUC-H
 OutlineFileName:\KSC-EUC-V
 FileLength:3105
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1225,7 +1225,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSC-H
 FileLength:11706
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1236,7 +1236,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSC-Johab-H
 FileLength:84319
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1248,7 +1248,7 @@ Ordering:Korea1
 UseCMap:KSC-Johab-H
 OutlineFileName:\KSC-Johab-V
 FileLength:3119
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1260,7 +1260,7 @@ Ordering:Korea1
 UseCMap:KSC-H
 OutlineFileName:\KSC-V
 FileLength:3081
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1271,7 +1271,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSCms-UHC-H
 FileLength:16009
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1282,7 +1282,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSCms-UHC-HW-H
 FileLength:16005
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1294,7 +1294,7 @@ Ordering:Korea1
 UseCMap:KSCms-UHC-HW-H
 OutlineFileName:\KSCms-UHC-HW-V
 FileLength:3118
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1306,7 +1306,7 @@ Ordering:Korea1
 UseCMap:KSCms-UHC-H
 OutlineFileName:\KSCms-UHC-V
 FileLength:3119
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1317,7 +1317,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\KSCpc-EUC-H
 FileLength:12624
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1329,7 +1329,7 @@ Ordering:Korea1
 UseCMap:KSCpc-EUC-H
 OutlineFileName:\KSCpc-EUC-V
 FileLength:3117
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1340,7 +1340,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\NWP-H
 FileLength:17367
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1352,7 +1352,7 @@ Ordering:Japan1
 UseCMap:NWP-H
 OutlineFileName:\NWP-V
 FileLength:3672
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1363,7 +1363,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\RKSJ-H
 FileLength:5193
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1375,7 +1375,7 @@ Ordering:Japan1
 UseCMap:RKSJ-H
 OutlineFileName:\RKSJ-V
 FileLength:3298
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1386,7 +1386,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\Roman
 FileLength:2757
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1397,7 +1397,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\UniCNS-UCS2-H
 FileLength:326418
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1409,7 +1409,7 @@ Ordering:CNS1
 UseCMap:UniCNS-UCS2-H
 OutlineFileName:\UniCNS-UCS2-V
 FileLength:3040
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1420,7 +1420,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\UniCNS-UTF16-H
 FileLength:252751
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1432,7 +1432,7 @@ Ordering:CNS1
 UseCMap:UniCNS-UTF16-H
 OutlineFileName:\UniCNS-UTF16-V
 FileLength:3029
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1443,7 +1443,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\UniCNS-UTF32-H
 FileLength:324047
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1455,7 +1455,7 @@ Ordering:CNS1
 UseCMap:UniCNS-UTF32-H
 OutlineFileName:\UniCNS-UTF32-V
 FileLength:3109
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1466,7 +1466,7 @@ Registry:Adobe
 Ordering:CNS1
 OutlineFileName:\UniCNS-UTF8-H
 FileLength:289528
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1478,7 +1478,7 @@ Ordering:CNS1
 UseCMap:UniCNS-UTF8-H
 OutlineFileName:\UniCNS-UTF8-V
 FileLength:3065
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1489,7 +1489,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\UniGB-UCS2-H
 FileLength:274452
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1501,7 +1501,7 @@ Ordering:GB1
 UseCMap:UniGB-UCS2-H
 OutlineFileName:\UniGB-UCS2-V
 FileLength:3236
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1512,7 +1512,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\UniGB-UTF16-H
 FileLength:199991
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1524,7 +1524,7 @@ Ordering:GB1
 UseCMap:UniGB-UTF16-H
 OutlineFileName:\UniGB-UTF16-V
 FileLength:3130
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1535,7 +1535,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\UniGB-UTF32-H
 FileLength:267895
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1547,7 +1547,7 @@ Ordering:GB1
 UseCMap:UniGB-UTF32-H
 OutlineFileName:\UniGB-UTF32-V
 FileLength:3246
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1558,7 +1558,7 @@ Registry:Adobe
 Ordering:GB1
 OutlineFileName:\UniGB-UTF8-H
 FileLength:237832
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1570,7 +1570,7 @@ Ordering:GB1
 UseCMap:UniGB-UTF8-H
 OutlineFileName:\UniGB-UTF8-V
 FileLength:3184
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1581,7 +1581,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\UniHojo-UCS2-H
 FileLength:83661
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1593,7 +1593,7 @@ Ordering:Japan2
 UseCMap:UniHojo-UCS2-H
 OutlineFileName:\UniHojo-UCS2-V
 FileLength:2783
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1604,7 +1604,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\UniHojo-UTF16-H
 FileLength:63017
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1616,7 +1616,7 @@ Ordering:Japan2
 UseCMap:UniHojo-UTF16-H
 OutlineFileName:\UniHojo-UTF16-V
 FileLength:2789
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1627,7 +1627,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\UniHojo-UTF32-H
 FileLength:84890
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1639,7 +1639,7 @@ Ordering:Japan2
 UseCMap:UniHojo-UTF32-H
 OutlineFileName:\UniHojo-UTF32-V
 FileLength:2789
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1650,7 +1650,7 @@ Registry:Adobe
 Ordering:Japan2
 OutlineFileName:\UniHojo-UTF8-H
 FileLength:73770
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1662,7 +1662,7 @@ Ordering:Japan2
 UseCMap:UniHojo-UTF8-H
 OutlineFileName:\UniHojo-UTF8-V
 FileLength:2785
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1673,7 +1673,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS-UCS2-H
 FileLength:168666
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1685,7 +1685,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UCS2-H
 OutlineFileName:\UniJIS-UCS2-HW-H
 FileLength:2889
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1697,7 +1697,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UCS2-H
 OutlineFileName:\UniJIS-UCS2-HW-V
 FileLength:6660
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1709,7 +1709,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UCS2-H
 OutlineFileName:\UniJIS-UCS2-V
 FileLength:6578
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1720,7 +1720,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS-UTF16-H
 FileLength:187682
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1732,7 +1732,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UTF16-H
 OutlineFileName:\UniJIS-UTF16-V
 FileLength:5762
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1743,7 +1743,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS-UTF32-H
 FileLength:244754
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1755,7 +1755,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UTF32-H
 OutlineFileName:\UniJIS-UTF32-V
 FileLength:6770
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1766,7 +1766,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS-UTF8-H
 FileLength:215878
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1778,7 +1778,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UTF8-H
 OutlineFileName:\UniJIS-UTF8-V
 FileLength:6275
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1789,7 +1789,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS2004-UTF16-H
 FileLength:187762
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1801,7 +1801,7 @@ Ordering:Japan1
 UseCMap:UniJIS2004-UTF16-H
 OutlineFileName:\UniJIS2004-UTF16-V
 FileLength:5786
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1812,7 +1812,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS2004-UTF32-H
 FileLength:244834
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1824,7 +1824,7 @@ Ordering:Japan1
 UseCMap:UniJIS2004-UTF32-H
 OutlineFileName:\UniJIS2004-UTF32-V
 FileLength:6794
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1835,7 +1835,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJIS2004-UTF8-H
 FileLength:215957
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1847,7 +1847,7 @@ Ordering:Japan1
 UseCMap:UniJIS2004-UTF8-H
 OutlineFileName:\UniJIS2004-UTF8-V
 FileLength:6297
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1858,7 +1858,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJISB-UCS2-H
 FileLength:134767
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1870,7 +1870,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UCS2-H
 OutlineFileName:\UniJISPro-UCS2-HW-V
 FileLength:6798
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1882,7 +1882,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UCS2-H
 OutlineFileName:\UniJISPro-UCS2-V
 FileLength:6687
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1894,7 +1894,7 @@ Ordering:Japan1
 UseCMap:UniJIS-UTF8-H
 OutlineFileName:\UniJISPro-UTF8-V
 FileLength:7536
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1905,7 +1905,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJISX0213-UTF32-H
 FileLength:244744
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1917,7 +1917,7 @@ Ordering:Japan1
 UseCMap:UniJISX0213-UTF32-H
 OutlineFileName:\UniJISX0213-UTF32-V
 FileLength:6821
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1928,7 +1928,7 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\UniJISX02132004-UTF32-H
 FileLength:244824
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1940,7 +1940,7 @@ Ordering:Japan1
 UseCMap:UniJISX02132004-UTF32-H
 OutlineFileName:\UniJISX02132004-UTF32-V
 FileLength:6845
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1951,7 +1951,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\UniKS-UCS2-H
 FileLength:166078
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1963,7 +1963,7 @@ Ordering:Korea1
 UseCMap:UniKS-UCS2-H
 OutlineFileName:\UniKS-UCS2-V
 FileLength:3145
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1974,7 +1974,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\UniKS-UTF16-H
 FileLength:122983
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1986,7 +1986,7 @@ Ordering:Korea1
 UseCMap:UniKS-UTF16-H
 OutlineFileName:\UniKS-UTF16-V
 FileLength:3099
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -1997,7 +1997,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\UniKS-UTF32-H
 FileLength:165047
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -2009,7 +2009,7 @@ Ordering:Korea1
 UseCMap:UniKS-UTF32-H
 OutlineFileName:\UniKS-UTF32-V
 FileLength:3199
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -2020,7 +2020,7 @@ Registry:Adobe
 Ordering:Korea1
 OutlineFileName:\UniKS-UTF8-H
 FileLength:145886
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -2032,7 +2032,7 @@ Ordering:Korea1
 UseCMap:UniKS-UTF8-H
 OutlineFileName:\UniKS-UTF8-V
 FileLength:3145
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -2044,7 +2044,7 @@ Ordering:Japan1
 UseCMap:H
 OutlineFileName:\V
 FileLength:3268
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
 %BeginFont
@@ -2055,6 +2055,6 @@ Registry:Adobe
 Ordering:Japan1
 OutlineFileName:\WP-Symbol
 FileLength:3162
-FileModTime:1453204310
+FileModTime:1479841785
 %EndFont
 
